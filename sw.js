@@ -1,4 +1,4 @@
-// ዋን ሩፍ ንግድ፡ ሪልስቴት እና አፓርትመንት - Service Worker
+// ታውን  አፓርትመንት - Service Worker
 // Caches the app shell so the icon/site can be added to the home screen and
 // still open (with a cached fallback) even with a weak connection. Firebase,
 // fonts, and CDN scripts are left to the network as usual — this only
